@@ -1,2 +1,2 @@
 # movie-trailer
-#by Nandigama kowlini
+#by Nandigama Kowlini
